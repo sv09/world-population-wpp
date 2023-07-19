@@ -1,4 +1,4 @@
-## Visualizing World Population on a Map by chnage of color: 1950 - 2100 
+## Visualizing World Population on a Map by change of color: 1950 - 2100 
 
 - Svelte 
 - D3
